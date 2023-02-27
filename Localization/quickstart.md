@@ -41,5 +41,6 @@ There are some characters that should not be translated into another language an
 1. the tags should not be replaced. Instead the tags in the new language should be appended.
 2. control sequences like '\n', '\t' or similar.
 3. HTML Tags like `<b>...</b>, <i>...</i>` or similar
+zh-cn
 
 <!-- CC BY-ND-3.0 Unported  by zer0Kerbal  -->
